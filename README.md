@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer</h3>
 <h4 align="center">Having 3 years of experience in building scalable web applications. Skilled in both front-end and back-end, I work with Java, Spring Boot, Angular, and React to create efficient, user-focused solutions. I'm committed to continuous learning and adapting to new technologies.</h4>
 
-<h3 align="left">Connect with me: tejaswidivi196@gmail.com | +1(470)-962-9489</h3>
+<h3 align="left">Connect with me:<h4> <i>tejaswidivi196@gmail.com | +1(470)-962-9489</i></h4></h3>
 <p align="left">
 </p>
 
