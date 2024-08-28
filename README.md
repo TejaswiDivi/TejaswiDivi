@@ -1,12 +1,8 @@
-## Hi there 👋
-
-Myself Tejaswi Divi, I'm a Java Full Stack Developer with 3 years of experience in building and maintaining scalable web applications. I have a solid background in both front-end and back-end development, with expertise in Java, Spring Boot, and modern JavaScript frameworks like Angular and React. My focus is on creating efficient, robust solutions that provide an exceptional user experience, and I'm passionate about continuously learning and adapting to new technologies.
- 
-
 <h1 align="center">Hi 👋, I'm Tejaswi</h1>
 <h3 align="center">A passionate full stack developer</h3>
+<h4 align="center">Myself Tejaswi Divi, I'm a Java Full Stack Developer with 3 years of experience in building and maintaining scalable web applications. I have a solid background in both front-end and back-end development, with expertise in Java, Spring Boot, and modern JavaScript frameworks like Angular and React. My focus is on creating efficient, robust solutions that provide an exceptional user experience, and I'm passionate about continuously learning and adapting to new technologies.</h4>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: tejaswidivi196@gmail.com</h3>
 <p align="left">
 </p>
 
